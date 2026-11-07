@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Power Tree",
+  "description": "Power Tree Application",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
