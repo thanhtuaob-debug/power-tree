@@ -1,0 +1,6 @@
+{
+  "summary": "Kế hoạch chi tiết kiến trúc và triển khai cho POWER TREE Smart Dashboard.\nBao gồm kiến trúc hệ thống, 3 khu vực giám sát năng lượng và nước, cơ chế an toàn liên động (Interlock Safety), chế độ Demo Mode cho học sinh lớp 3, giao thức kết nối phần cứng Arduino Web Serial API, và lộ trình 4 giai đoạn triển khai.",
+  "updatedAt": "2026-11-07T02:29:46.003409422Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
